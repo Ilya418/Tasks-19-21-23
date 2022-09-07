@@ -1,0 +1,15 @@
+D:\git1\Tasks 19-21-23\obj\Debug\net6.0\Tasks 19-21-23.csproj.AssemblyReference.cache
+D:\git1\Tasks 19-21-23\obj\Debug\net6.0\Tasks 19-21-23.GeneratedMSBuildEditorConfig.editorconfig
+D:\git1\Tasks 19-21-23\obj\Debug\net6.0\Tasks 19-21-23.AssemblyInfoInputs.cache
+D:\git1\Tasks 19-21-23\obj\Debug\net6.0\Tasks 19-21-23.AssemblyInfo.cs
+D:\git1\Tasks 19-21-23\obj\Debug\net6.0\Tasks 19-21-23.csproj.CoreCompileInputs.cache
+D:\git1\Tasks 19-21-23\bin\Debug\net6.0\Tasks 19-21-23.exe
+D:\git1\Tasks 19-21-23\bin\Debug\net6.0\Tasks 19-21-23.deps.json
+D:\git1\Tasks 19-21-23\bin\Debug\net6.0\Tasks 19-21-23.runtimeconfig.json
+D:\git1\Tasks 19-21-23\bin\Debug\net6.0\Tasks 19-21-23.dll
+D:\git1\Tasks 19-21-23\bin\Debug\net6.0\Tasks 19-21-23.pdb
+D:\git1\Tasks 19-21-23\obj\Debug\net6.0\Tasks 19-21-23.dll
+D:\git1\Tasks 19-21-23\obj\Debug\net6.0\refint\Tasks 19-21-23.dll
+D:\git1\Tasks 19-21-23\obj\Debug\net6.0\Tasks 19-21-23.pdb
+D:\git1\Tasks 19-21-23\obj\Debug\net6.0\Tasks 19-21-23.genruntimeconfig.cache
+D:\git1\Tasks 19-21-23\obj\Debug\net6.0\ref\Tasks 19-21-23.dll
